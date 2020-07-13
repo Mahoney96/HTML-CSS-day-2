@@ -75,5 +75,9 @@ h2 {
 
 .row > div {
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
+}
+
+.bg-2 {
+    background-image: url('./media/bg_image_2.jpg');
 }
